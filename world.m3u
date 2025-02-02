@@ -49,7 +49,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
 https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
- 
 
 #EXTINF:-1 tvg-id="TRANS TV.id" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png" group-title="FLY LOKAL",Trans TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -848,3 +847,40 @@ https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&userid=li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504962_tvchannels_v1.jpg" group-title="FLY DENSTV",Sunna TV
 https://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&userid=lite&chname=sunna-tv
+
+//========================================================================
+//Collected by @flyin >>> SKY SPORT
+//========================================================================
+
+#EXTINF:-1 tvg-id="SkySp+ HD.uk" tvg-logo="https://iili.io/2G3hPwP.png" group-title="FLY SKY",Sky Sports +
+https://ie.sonyrepairs.com/sksparena/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySp NFL HD.uk" tvg-logo="https://iili.io/JV1bsgj.png" group-title="FLY SKY",Sky Sports Action
+https://ie.sonyrepairs.com/skspnfl/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySpCricket HD.uk" tvg-logo="https://iili.io/JV1bPqu.png" group-title="FLY SKY",Sky Sports Cricket
+https://ie.sonyrepairs.com/skspcricket/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySp F1 HD.uk" tvg-logo="https://iili.io/JV1b4se.png" group-title="FLY SKY",Sky Sports F1
+https://ie.sonyrepairs.com/skspf1/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySp Fball HD.uk" tvg-logo="https://iili.io/JV1bZ5Q.png" group-title="FLY SKY",Sky Sports Football
+https://ie.sonyrepairs.com/skspfootball/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySp Golf HD.uk" tvg-logo="https://iili.io/JV1bQdx.png" group-title="FLY SKY",Sky Sports Golf
+https://ie.sonyrepairs.com/skspgolf/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://iili.io/JV1bteV.png" group-title="FLY SKY",Sky Sports Main Event
+https://ie.sonyrepairs.com/skspmainevent/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySp Mix HD.uk" tvg-logo="https://iili.io/JV1bDmB.png" group-title="FLY SKY",Sky Sports Mix
+https://ie.sonyrepairs.com/spspmix/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySp News HD.uk" tvg-logo="https://iili.io/JV1bmzP.png" group-title="FLY SKY",Sky Sports News
+https://ie.sonyrepairs.com/skspnews/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySp PL HD.uk" tvg-logo="https://iili.io/JV1mHqg.png" group-title="FLY SKY",Sky Sports Premier League
+https://ie.sonyrepairs.com/sksppremierleague/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySp Tennis HD.uk" tvg-logo="https://iili.io/JV1p7cJ.png" group-title="FLY SKY",Sky Sports Tennis
+https://ie.sonyrepairs.com/sktennis/index.m3u8
