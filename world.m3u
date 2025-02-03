@@ -951,3 +951,16 @@ http://exm3u.123tv.to:8080/live/PsV8ILRBYZ/XVPZxk62WC/18621.ts
 
 #EXTINF:-1 tvg-id="Assp4" tvg-logo="https://iili.io/2ZP8X5J.png" group-title="FLY ASTRO",ASSP 4 FHD
 http://exm3u.123tv.to:8080/live/PsV8ILRBYZ/XVPZxk62WC/18620.ts
+
+#EXTINF:10.120000,
+https://mantul.biz.id:443/live/inetwork/gayanet12/60.ts
+#EXTINF:10.080000,
+https://mantul.biz.id:443/live/inetwork/gayanet12/60.ts
+#EXTINF:9.920000,
+https://mantul.biz.id:443/live/inetwork/gayanet12/60.ts
+#EXTINF:10.320000,
+https://mantul.biz.id:443/live/inetwork/gayanet12/60.ts
+#EXTINF:9.760000,
+https://mantul.biz.id:443/live/inetwork/gayanet12/60.ts
+#EXTINF:9.920000,
+https://mantul.biz.id:443/live/inetwork/gayanet12/60.ts
