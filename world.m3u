@@ -38,7 +38,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTVLCOPT:http-reconnect=true
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1604
 
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="FLY LOKAL",Indosiar kopet
+#EXTINF:-1  tvg-logo="https://iili.io/2ZKpE7V.png" group-title="FLY LOKAL",INDOSIAR LIGA 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1604
 
