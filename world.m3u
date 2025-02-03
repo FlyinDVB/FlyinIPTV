@@ -183,6 +183,9 @@ https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://iili.io/2tzijxs.png" group-title="FLY LOKAL",DOHO TV KOMENG
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 
+#EXTINF:-1  tvg-logo="https://iili.io/2tIRAP9.png" group-title="FLY LOKAL",TV KU SEMARANG
+https://tvku.tv/hlsstream/hls/live.m3u8
+
 //========================================================================
 //Collected by @flyin >>> SPORTS
 //========================================================================
