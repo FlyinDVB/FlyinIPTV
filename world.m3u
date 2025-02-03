@@ -42,10 +42,6 @@ http://perfecttv.net:8080/Perfecttv/Perfecttv/1604
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1604
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/2ZKpE7V.png" group-title="FLY LOKAL",INDOSIAR LIGA 1 V
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://iili.io/2Zfd40g.png" group-title="FLY LOKAL",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
