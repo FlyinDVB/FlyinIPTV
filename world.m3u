@@ -177,7 +177,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 #EXTINF:-1  tvg-logo="https://iili.io/2tzJoN4.png" group-title="FLY LOKAL",SAMPIT TV
 https://e.siar.us/live/sampit-tv.m3u8
 
-##EXTINF:-1  tvg-logo="https://madu.tv/wp-content/uploads/2023/05/madu-tv-logo.png" group-title="FLY LOKAL",MADU KOMENG
+#EXTINF:-1  tvg-logo="https://madu.tv/wp-content/uploads/2023/05/madu-tv-logo.png" group-title="FLY LOKAL",MADU KOMENG
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 
 //========================================================================
