@@ -105,11 +105,10 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/593/593-LOGO-m.png" group-title="FLY LOKAL",TVRI WORLD
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
-##EXTVLCOPT:http-referrer=https://www.dens.tv/
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/593/593-LOGO-m.png" group-title="FLY LOKAL",TVRI SPORT
-#https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8?app_type=web&userid=lite&chname=tvri-sport
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/166686
+https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8?app_type=web&userid=lite&chname=tvri-sport
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -1380,6 +1379,45 @@ http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112197
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112196 
 #EXTINF:-1  tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="FLY NOW SPORTS", HK SPORT PRIME FHD
 
+#EXTINF:-1 group-logo="https://iili.io/2txAKdv.png", group-title="FLY BEIN",BEIN 1 FHD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="FLY BEIN",BEIN 1 FHD
+http://45.139.122.148:8000/play/a004
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="FLY BEIN",BEIN 2 FHD
+http://45.139.122.148:8000/play/a005
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="FLY BEIN",BEIN 3 FHD
+http://45.139.122.148:8000/play/a006
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="FLY BEIN",BEIN 4 FHD
+http://45.139.122.148:8000/play/a007
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="FLY BEIN",BEIN 5 FHD
+http://45.139.122.148:8000/play/a008
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="FLY BEIN",BEIN 6 FHD
+http://45.139.122.148:8000/play/a009
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="FLY BEIN",BEIN 7 FHD
+http://45.139.122.148:8000/play/a00a
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="FLY BEIN",BEIN 8 FHD
+http://45.139.122.148:8000/play/a00b
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="FLY BEIN",BEIN 9 FHD
+
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png " group-title="FLY BEIN",BEIN 1
+http://ktv.im:8080/kk56712/kk12345/49522
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png " group-title="FLY BEIN",BEIN 2
+http://ktv.im:8080/kk56712/kk12345/49523
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png " group-title="FLY BEIN",BEIN 3 
+http://ktv.im:8080/kk56712/kk12345/49524
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png " group-title="FLY BEIN",BEIN 4 
+http://ktv.im:8080/kk56712/kk12345/49525
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png " group-title="FLY BEIN",BEIN 5 
+http://ktv.im:8080/kk56712/kk12345/49526
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png " group-title="FLY BEIN",BEIN 6 
+http://ktv.im:8080/kk56712/kk12345/49527
+#EXTINF:-1 group-title="FLY BEIN" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 7 
+http://ktv.im:8080/kk56712/kk12345/49528
+#EXTINF:-1 group-title="FLY BEIN" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 8 
+http://ktv.im:8080/kk56712/kk12345/49529
+#EXTINF:-1 group-title="FLY BEIN" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 9 
+http://ktv.im:8080/kk56712/kk12345/49530
+#EXTINF:-1 group-title="FLY BEIN" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN AFC
+http://ktv.im:8080/kk56712/kk12345/49531
 
 #EXTM3U url=""
 #EXTINF:-1 group-logo="https://iili.io/2toKst4.png", group-title="FLY VOD",Kutty Vaathiyar (2025)
