@@ -45,7 +45,6 @@ http://perfecttv.net:8080/Perfecttv/Perfecttv/1604
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/2ZKpE7V.png" group-title="FLY LOKAL",INDOSIAR LIGA1 vidio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-reconnect=true
 https://geo-id-tl-gg-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/6686/primary/1080p/v-1080p-idx.mp4?hdntl=exp=1738628257~acl=/drm/dash/6686*~id=101450388~data=hdntl~hmac=9b8be0ee418eda45ba9feb59d279145cb214ede509eac8f86032882a46ee3aba
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://iili.io/2Zfd40g.png" group-title="FLY LOKAL",SCTV
