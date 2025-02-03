@@ -506,44 +506,140 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/689/689-LOGO-m.png" group-title="FLY WORLD"",ABC Australia
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/689/689-LOGO-m.png" group-title="FLY WORLD",ABC Australia
 https://cempedak-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/681/681-LOGO-m.png" group-title="FLY WORLD"",Anhui TV
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/681/681-LOGO-m.png" group-title="FLY WORLD",Anhui TV
 https://cempedak-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/688/688-LOGO-m.png" group-title="FLY WORLD"",Arirang
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/688/688-LOGO-m.png" group-title="FLY WORLD",Arirang
 https://cempedak-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/683/683-LOGO-m.png" group-title="FLY WORLD"",Dragon TV
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/683/683-LOGO-m.png" group-title="FLY WORLD",Dragon TV
 https://cempedak-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/853/853-LOGO-m.png" group-title="FLY WORLD"",Hunan TV
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/853/853-LOGO-m.png" group-title="FLY WORLD",Hunan TV
 https://cempedak-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/685/685-LOGO-m.png" group-title="FLY WORLD"",Jiangsu TV
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/685/685-LOGO-m.png" group-title="FLY WORLD",Jiangsu TV
 https://cempedak-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/687/687-LOGO-m.png" group-title="FLY WORLD"",TV5 Monde
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/687/687-LOGO-m.png" group-title="FLY WORLD",TV5 Monde
 https://cempedak-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="FLY WORLD",Animal Planet HD
+http://54.36.162.3/aplanet/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FLY WORLD",Rte One HD
+http://54.36.162.3/rte1/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FLY WORLD",Rte Two SD
+http://54.36.162.3/rte2/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FLY WORLD",Sky History HD
+http://54.36.162.3/skhistory/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FLY WORLD",Sky History2 HD
+http://54.36.162.3/skhistory2/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FLY WORLD",Sky Max HD
+http://54.36.162.3/skmax/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FLY WORLD",Sky Comedy HD
+http://54.36.162.3/skcomedy/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FLY WORLD",Sky ARTS HD
+http://54.36.162.3/skarts/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FLY WORLD",Sky Replay SD
+http://54.36.162.3/skreplay/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FLY WORLD",Sky Atlantic HD
+http://54.36.162.3/satlantic/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FLY WORLD",Sky Cinema Action HD
+http://54.36.162.3/skcineaction/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FLY WORLD",Sky Cinema Premiere HD
+http://54.36.162.3/skcinepremiere/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FLY WORLD",Sky Cinema Comedy HD 
+http://54.36.162.3/skcinecomedy/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FLY WORLD",Sky Cinema Thriller HD 
+http://54.36.162.3/skcinethriller/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FLY WORLD",Sky Cinema Select HD 
+http://54.36.162.3/skcineselect/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FLY WORLD",Sky Cinema Family HD 
+http://54.36.162.3/skcinefamily/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FLY WORLD",Sky Cinema Animation HD 
+http://54.36.162.3/skcineanimation/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FLY WORLD",Sky Cinema Hits HD 
+http://54.36.162.3/skcinehits/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FLY WORLD",Nick JR.
+http://54.36.162.3/nickjr/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FLY WORLD",Cartoon Network
+http://54.36.162.3/cnetwork/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FLY WORLD",MTV HD
+http://54.36.162.3/mtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FLY WORLD",TLC HD
+http://54.36.162.3/tlc/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FLY WORLD",Food Network
+http://54.36.162.3/foodnetwork/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FLY WORLD",Sky News HD
+http://54.36.162.3/skynews/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FLY WORLD",BBC News HD
+http://54.36.162.3/bbcnews/index.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="FLY WORLD",CNN
+http://54.36.162.3/cnn/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FLY WORLD",CNBC HD
+http://54.36.162.3/cnbc/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FLY WORLD",T4 HD
+http://54.36.162.3/tg4/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FLY WORLD",Aljazeera English
+http://54.36.162.3/jazeera/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FLY WORLD",France 24 FR
+http://54.36.162.3/france24/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FLY WORLD",Bloomberg TV
+http://54.36.162.3/bloomberg/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FLY WORLD",GB News HD
+http://54.36.162.3/gbnews/index.m3u8
 
 //========================================================================
 //Collected by @flyin >>> DENSTV
