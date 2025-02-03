@@ -37,7 +37,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 ##http://perfecttv.net:8080/Perfecttv/Perfecttv/1604
-https://geo-id-tl-gg-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/6686/primary/audio/audio-idx.mp4?hdntl=exp=1738628257~acl=/drm/dash/6686*~id=101450388~data=hdntl~hmac=9b8be0ee418eda45ba9feb59d279145cb214ede509eac8f86032882a46ee3aba
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/6686/primary/audio/audio-idx.mp4?hdntl=exp=1738628257~acl=/drm/dash/6686*~id=101450388~data=hdntl~hmac=9b8be0ee418eda45ba9feb59d279145cb214ede509eac8f86032882a46ee3aba
 
 #EXTINF:-1  tvg-logo="https://iili.io/2ZKpE7V.png" group-title="FLY LOKAL",INDOSIAR LIGA 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
