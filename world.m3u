@@ -1226,7 +1226,7 @@ http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101760
 //Collected by @flyin >>> HUB SPORT
 //========================================================================
 
-#EXTINF:-1 group-logo="https://iili.io/2tf4ikQ.png", group-title="FLY SSC SPORT",SSC 1 FHD
+#EXTINF:-1 group-logo="https://iili.io/2tf4ikQ.png", group-title="FLY HUB SPORT",HUB PREMIER 1 FHD
 #EXTINF:-1  tvg-logo="https://iili.io/2tf4ikQ.png" group-title="FLY HUB SPORT", HUB PREMIER 1 FHD
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112231
 #EXTINF:-1  tvg-logo="https://iili.io/2tf4ikQ.png" group-title="FLY HUB SPORT", HUB PREMIER 2 FHD
@@ -1247,5 +1247,5 @@ http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112223
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112222 
 #EXTINF:-1  tvg-logo="https://iili.io/2tf4ikQ.png" group-title="FLY HUB SPORT", HUB PREMIER 10 FHD
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112221 
-#EXTINF:-1  tvg-logo="https://iili.io/2tf4ikQ.png" group-title="FLY HUB SPORT", HUB PREMIER 11 FHD VIP SPORTS 
+#EXTINF:-1  tvg-logo="https://iili.io/2tf4ikQ.png" group-title="FLY HUB SPORT", HUB PREMIER 11 FHD
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112220
