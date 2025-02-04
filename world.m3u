@@ -1017,8 +1017,8 @@ https://ie.sonyrepairs.com/sktennis/index.m3u8
 #EXTINF:-1 group-logo="https://iili.io/2ZZ0BJ2.png", group-title="FLY ASTRO",ASSP 1 HD
 #EXTINF:-1 tvg-id="Assp1" tvg-logo="https://iili.io/2ZP8X5J.png" group-title="FLY ASTRO",ASSP 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-https://bingsport.cfd/dno/stream.m3u8?cid=124&chunks=f04156b34df0c3efa3a880a3d7df1921307e5936f0e3c85ffb29427e2e5b26c1b350adc485525470621b831f2ddfce260568cd15504771cf775688cd94a76ab7bbf20b307a80b9f6113b91fbc901c7fc&vtoken=
-#EXTVLCOPT:http-referrer=https://bingsport.cfd/dno/embed.php?play=124
+https://bingsport.cfd/dno/stream.m3u8?cid=123&chunks=3e134d19f060cc2eb945071bb1288fd462ca2abe6878c31941132a0eeda2823c518ae949a783e2b78fb6d0fb8e83d63dcb823930ad4b610148be24182324aadb0426eeddbea4ec7c84d70bbc2175a545&vtoken=
+#EXTVLCOPT:http-referrer=https://bingsport.cfd/dno/embed.php?play=123
 
 #EXTINF:-1 tvg-id="Assp2" tvg-logo="https://iili.io/2ZP8X5J.png" group-title="FLY ASTRO",ASSP 2 HD
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1365
