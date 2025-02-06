@@ -62,8 +62,7 @@ https://video.jasoncreak8.workers.dev/play?id=205&type=dash
 ##KODIPROP:inputstream.adaptive.manifest_type=dash
 ##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 ##KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=205&type=drm
-https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/205_stream.mpd?hdntl=exp=1738788194~acl=%2fvp9%2f205_stream.mpd!%2fvp9%2f205%2f*!%2fvp9%2f*%2f205_stream.mpd!%2fvp9%2f*%2f205%2f*~id=101450388~data=hdntl~hmac=a251338301180fbed5ee7bb5be3fd19dfaf61454ee9c3f258cdc5e4cb5ecc14b
-
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_205_720p/hdntl=exp=1738854499~acl=%2flive%2f205%2fmaster.m3u8!%2fhls-p%2fingest_205*%2f*!%2fhls-b%2fingest_205*%2f*~id=101450388~data=hdntl~hmac=d11f0ace988420f864369538acec6debd1ac0a3b7caaea26163d51ae978589b2/index.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://iili.io/2Zfd40g.png" group-title="FLY LOKAL",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
