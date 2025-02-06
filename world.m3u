@@ -45,7 +45,7 @@ https://video.jasoncreak8.workers.dev/play?id=205&type=dash
 #EXTVLCOPT:http-Accept: */*
 #EXTVLCOPT:http-Accept-Language=en-US,en;q=0.5
 #EXTVLCOPT:http-Accept-Encoding=gzip, deflate, br, zstd
-#EXTVLCOPT:http-Referer=https://www.vidio.com/live/204-live
+#EXTVLCOPT:http-Referer=https://www.vidio.com/live/205-live
 #EXTVLCOPT:http-Content-Type=application/json; charset=UTF-8
 #EXTVLCOPT:http-Content-Length=0
 #EXTVLCOPT:http-Origin=https://www.vidio.com
