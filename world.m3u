@@ -3033,6 +3033,8 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61c1add0fbbcc21f45d
 //========================================================================
 //Collected by @mimipipi22 menampilkan playlist >>> HBOGO ASIA 2016-2020
 //========================================================================
-
+#EXTM3U url=""
+#EXTINF:-1 group-logo="https://iili.io/2toKst4.png", group-title="FLY VOD",HBO
+https://raw.githubusercontent.com/FlyinDVB/FlyinIPTV/refs/heads/main/vod2020.m3u
 
 #EXTM3U billed-msg="😎 BY FLYIN DVB 😎"
