@@ -62,7 +62,9 @@ https://sweet-night-1d1d.worst.workers.dev/?id=205&type=dash
 ##KODIPROP:inputstream.adaptive.manifest_type=dash
 ##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 ##KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=205&type=drm
-https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/205_stream.mpd?hdntl=exp=1738906268~acl=%2fvp9%2f205_stream.mpd!%2fvp9%2f205%2f*!%2fvp9%2f*%2f205_stream.mpd!%2fvp9%2f*%2f205%2f*~id=allUsers~data=hdntl~hmac=a00d5df0373136d37f5fea1e80c0d48dd6f40f0aac14d3952b804dad1d74d5ee
+https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/205_stream.mpd?hdntl=exp=1738906268~acl=%2fvp9%2f205_stream.mpd!%2fvp9%2f205%2f*!%2fvp9%2f*%2f205_stream.mpd!%2fvp9%2f*%2f205%2f*~id=101450388~data=hdntl~hmac=a00d5df0373136d37f5fea1e80c0d48dd6f40f0aac14d3952b804dad1d74d5ee
+https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/205_stream.mpd?hdntl=exp=1738907018~acl=%2fvp9%2f205_stream.mpd!%2fvp9%2f205%2f*!%2fvp9%2f*%2f205_stream.mpd!%2fvp9%2f*%2f205%2f*~id=101450388~data=hdntl~hmac=b04fd8c56ecf18b46344baa1ee9a18f3c83a485cd7e34f8142d9c33c6448da9e
+
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://iili.io/2Zfd40g.png" group-title="FLY LOKAL",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
