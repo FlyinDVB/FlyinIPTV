@@ -136,7 +136,7 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/166686
 https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/mobile/images/logo__cnn.png?v=11.0.5" group-title="FLY LOKAL",CNN Indonesia
+#EXTINF:-1 tvg-logo="https://iili.io/2DbDxdQ.png" group-title="FLY LOKAL",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
