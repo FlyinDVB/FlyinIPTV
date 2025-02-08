@@ -38,7 +38,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=205&type=drm 
+#KODIPROP:inputstream.adaptive.license_key=265cb83db10352839a66c53a688ba23a:0fcd9b29abf332580a394acd8079d459
 https://video.jasoncreak8.workers.dev/play?id=205&type=dash
 
 #EXTINF:-1  tvg-logo="https://iili.io/2DHxlQR.png" group-title="FLY LOKAL",BRI LIGA 2
