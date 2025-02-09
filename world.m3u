@@ -35,11 +35,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTINF:-1  tvg-logo="https://iili.io/2DHoyX4.png" group-title="FLY LOKAL",BRI LIGA 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/vidio-test/playback.php?id=17623&type=drm
-https://udinlaw.serv00.net/vidio-test/playback.php?id=17623&type=dash
-#KODIPROP:inputstream.adaptive.license_key=5db9542de47852bfb1cd0d096aaa3875:66b0bdd8ec02de10c05e51501953129d
-#https://video.jasoncreak8.workers.dev/play?id=205&type=dash
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17623_stream.mpd?hdntl=exp=1739103902~acl=%2fdrm%2fdash%2f17623*~id=101450388~data=hdntl~hmac=422006750d07713f107e9ab30a4f43bc5bc85f0873e18d28a1356dc99d93b33a
+
 
 #EXTINF:-1  tvg-logo="https://iili.io/2DHxlQR.png" group-title="FLY LOKAL",BRI LIGA 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
