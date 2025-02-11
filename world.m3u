@@ -66,7 +66,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=205&type=dash
 #EXTVLCOPT:http-Sec-Fetch-Dest=empty
 #EXTVLCOPT:http-Sec-Fetch-Mode=cors
 #EXTVLCOPT:http-Sec-Fetch-Site=same-site
-https://experiment-etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1739299406~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=34547caa18052cf1be30aa3600fe9bd06b627ca2b4591b8ee1f97048fe4b0048
+https://experiment-etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1739305279~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=34547caa18052cf1be30aa3600fe9bd06b627ca2b4591b8ee1f97048fe4b0048
 ##KODIPROP:inputstreamaddon=inputstream.adaptive 
 ##KODIPROP:inputstream.adaptive.manifest_type=dash 
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
