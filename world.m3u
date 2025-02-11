@@ -66,7 +66,8 @@ https://sweet-night-1d1d.worst.workers.dev/?id=205&type=dash
 #EXTVLCOPT:http-Sec-Fetch-Dest=empty
 #EXTVLCOPT:http-Sec-Fetch-Mode=cors
 #EXTVLCOPT:http-Sec-Fetch-Site=same-site
-https://experiment-etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1739305279~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=34547caa18052cf1be30aa3600fe9bd06b627ca2b4591b8ee1f97048fe4b0048
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=2250000,AVERAGE-BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
+https://live-b2.cf.dmcdn.net/sec2(pGW1uy_iLUmoztBl3ZzyZT9EiueXfp5M7W_rOl8yod-LcrVtP_6ExyIxXIzsKc-Hn8tmh_RgqcE9yZdcHARjOSTPezYiNH43vyV_SMIKfXYP1ll5UPiyXwY5Tueeqc-N)/cloud/3/x2lefik/d/live-720.m3u8#cell=lcfb2
 ##KODIPROP:inputstreamaddon=inputstream.adaptive 
 ##KODIPROP:inputstream.adaptive.manifest_type=dash 
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
