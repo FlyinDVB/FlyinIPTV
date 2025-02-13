@@ -8036,19 +8036,49 @@ https://hls2.dewanonton.online/vultr/yPALSHkaNQXht/hls-stream.m3u8
 https://cdn7iv.diebutx.com/ownhls/2020/28cdfc9db9535519cd8fe994f9c70bbb/720p/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="vidiotest",sctv
+#EXTINF:-1 tvg-logo="" group-title="vidiotest"
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 http://141.11.25.196/flyin.php?id=204
 
-#EXTINF:-1 tvg-logo="" group-title="vidiotest",indosiar
+#EXTINF:-1 tvg-logo="" group-title="vidiotest"
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 http://141.11.25.196/flyin.php?id=205
 
-#EXTINF:-1 tvg-logo="" group-title="vidiotest",moji
+#EXTINF:-1 tvg-logo="" group-title="vidiotest"
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 http://141.11.25.196/flyin.php?id=206
+
+#EXTINF:-1 tvg-logo="" group-title="vidiotest"
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+http://141.11.25.196/flyin.php?id=733
+
+#EXTINF:-1 tvg-logo="" group-title="vidiotest"
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+http://141.11.25.196/flyin.php?id=783
+
+#EXTINF:-1 tvg-logo="" group-title="vidiotest"
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+http://141.11.25.196/flyin.php?id=782
+
+#EXTINF:-1 tvg-logo="" group-title="vidiotest"
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+http://141.11.25.196/flyin.php?id=1561
+
+#EXTINF:-1 tvg-logo="" group-title="vidiotest"
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+http://141.11.25.196/flyin.php?id=777
+
+#EXTINF:-1 tvg-logo="" group-title="vidiotest"
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+http://141.11.25.196/flyin.php?id=874
 
 #EXTM3U billed-msg="😎 BY FLYIN DVB 😎"
