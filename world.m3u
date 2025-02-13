@@ -42,7 +42,7 @@ https://experiment-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_205
 #EXTINF:-1  tvg-logo="https://iili.io/2DHxlQR.png" group-title="FLY LOKAL",BRI LIGA 2
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://experiment-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_205_1080p/hdntl=exp=1739461029~acl=%2f*~id=140191317~data=hdntl~hmac=4785fb764ef49619b9b9f61800df7eaeb6871e3eadce810a59ccc23d95349b8d/index.m3u8
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_205_1080p/hdntl=exp=1739429447~acl=%2f*~id=61476098~data=hdntl~hmac=eba81c3c5db9a76004845dc4bbde0ae62465f13ca53627c95155f26a43afb67c/index.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://iili.io/2Zfd40g.png" group-title="FLY LOKAL",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
