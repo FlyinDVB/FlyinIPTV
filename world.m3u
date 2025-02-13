@@ -8036,6 +8036,9 @@ https://hls2.dewanonton.online/vultr/yPALSHkaNQXht/hls-stream.m3u8
 https://cdn7iv.diebutx.com/ownhls/2020/28cdfc9db9535519cd8fe994f9c70bbb/720p/index.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/DIqu2MDaLnOlvTYxecT9EVJXDR0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="ANEH",TEESSS
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+http://141.11.25.196/adi.php?id=205
 
 #EXTM3U billed-msg="😎 BY FLYIN DVB 😎"
