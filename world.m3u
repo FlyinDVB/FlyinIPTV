@@ -37,12 +37,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTINF:-1  tvg-logo="https://iili.io/2DHoyX4.png" group-title="FLY LOKAL",BRI LIGA 1
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
-http://141.11.25.196/flyin.php?id=205
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/205_stream.mpd?hdntl=exp=1739533975~acl=%2fdrm%2fdash%2f205*~id=101450388~data=hdntl~hmac=a35034508e4a9ca90cb7837a5c894065995253ffc1bc227b3218285e6fe93f94
 
 #EXTINF:-1  tvg-logo="https://iili.io/2DHxlQR.png" group-title="FLY LOKAL",BRI LIGA 2
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
-http://141.11.25.196/flyin.php?id=205
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/205_stream.mpd?hdntl=exp=1739533975~acl=%2fdrm%2fdash%2f205*~id=101450388~data=hdntl~hmac=a35034508e4a9ca90cb7837a5c894065995253ffc1bc227b3218285e6fe93f94
+
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://iili.io/2Zfd40g.png" group-title="FLY LOKAL",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
