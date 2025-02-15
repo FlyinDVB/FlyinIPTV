@@ -67,12 +67,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 http://141.11.25.196/flyin.php?id=206
 
 #EXTINF:-1 tvg-id="Moji.id" tvg-logo="https://thumbor.prod.vidiocdn.com/2fcK2Yn5-6El6-nRsHb_1b5rhDQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a19694.jpg" group-title="FLY LOKAL",MOJI VOLY
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f168568bfe5e5458106b6f4376a259aa:caca968e078f9c11b3ce58407a2b4dda
-http://104.11.25.196/flyin.php?id=18234
+https://experiment-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_18234_1080p/hdntl=exp=1739662475~acl=%2f*~id=140191317~data=hdntl~hmac=41878f7657c1dfa427ec5cba0a0c3da8efebbe6701d49742cf20b9c48d05156a/index.m3u8
 
 #EXTINF:-1 tvg-id="TRANS TV.id" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png" group-title="FLY LOKAL",Trans TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
