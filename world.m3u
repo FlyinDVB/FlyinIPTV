@@ -325,29 +325,6 @@ https://sweet-night-1d1d.worst.workers.dev/?id=6299&type=dash
 //#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/kfegwdswp0jcfvdg25pkrsxbehpcr86a5yyc/hdntl=exp=1739634811~acl=*%2fkfegwdswp0jcfvdg25pkrsxbehpcr86a5yyc%2f*~data=hdntl~hmac=6b14fd8587fdbbb1f4efe73089e5426ec2a122b35104b34b7754497d12dc2cd7/chunklist_720.stream.m3u8
 
-#EXTINF:-1 tvg-id="KBSN1" tvg-logo="https://iili.io/2ZCEhue.png" group-title="FLY KOVO",KBSN SPORT 1 HD
-//#EXTVLCOPT:http-referrer=https://m.sports.naver.com/
-//#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/kfegwdswp0jcfvdg25pkrsxbehpcr86a5yyc/hdntl=exp=1739634811~acl=*%2fkfegwdswp0jcfvdg25pkrsxbehpcr86a5yyc%2f*~data=hdntl~hmac=6b14fd8587fdbbb1f4efe73089e5426ec2a122b35104b34b7754497d12dc2cd7/chunklist_720.stream.m3u8
-
-#EXTINF:-1 tvg-id="KBSN1" tvg-logo="https://iili.io/2ZCEhue.png" group-title="FLY KOVO",KBSN SPORT 1 SD
-//#EXTVLCOPT:http-referrer=https://m.sports.naver.com/
-//#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/kfegwdswp0jcfvdg25pkrsxbehpcr86a5yyc/hdntl=exp=1739634811~acl=*%2fkfegwdswp0jcfvdg25pkrsxbehpcr86a5yyc%2f*~data=hdntl~hmac=6b14fd8587fdbbb1f4efe73089e5426ec2a122b35104b34b7754497d12dc2cd7/chunklist_720.stream.m3u8
-
-#EXTINF:-1 tvg-id="SBS" tvg-logo="https://iili.io/JmoiJMN.png" group-title="FLY KOVO",SBS SPORT FHD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/kfegwdswp0jcfvdg25pkrsxbehpcr86a5yyc/hdntl=exp=1739634811~acl=*%2fkfegwdswp0jcfvdg25pkrsxbehpcr86a5yyc%2f*~data=hdntl~hmac=6b14fd8587fdbbb1f4efe73089e5426ec2a122b35104b34b7754497d12dc2cd7/chunklist_720.stream.m3u8
-
-#EXTINF:-1 tvg-id="SBS" tvg-logo="https://iili.io/JmoiJMN.png" group-title="FLY KOVO",SBS SPORT HD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/kfegwdswp0jcfvdg25pkrsxbehpcr86a5yyc/hdntl=exp=1739634811~acl=*%2fkfegwdswp0jcfvdg25pkrsxbehpcr86a5yyc%2f*~data=hdntl~hmac=6b14fd8587fdbbb1f4efe73089e5426ec2a122b35104b34b7754497d12dc2cd7/chunklist_720.stream.m3u8
-
-#EXTINF:-1 tvg-id="SBS" tvg-logo="https://iili.io/JmoiJMN.png" group-title="FLY KOVO",SBS SPORT SD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/kfegwdswp0jcfvdg25pkrsxbehpcr86a5yyc/hdntl=exp=1739634811~acl=*%2fkfegwdswp0jcfvdg25pkrsxbehpcr86a5yyc%2f*~data=hdntl~hmac=6b14fd8587fdbbb1f4efe73089e5426ec2a122b35104b34b7754497d12dc2cd7/chunklist_720.stream.m3u8
-
-
-#EXTINF:-1 tvg-id="MAXSPORT" tvg-logo="https://iili.io/2Z0yaqB.jpg" group-title="FLY KOVO",MAX SPORT
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/kfegwdswp0jcfvdg25pkrsxbehpcr86a5yyc/hdntl=exp=1739634811~acl=*%2fkfegwdswp0jcfvdg25pkrsxbehpcr86a5yyc%2f*~data=hdntl~hmac=6b14fd8587fdbbb1f4efe73089e5426ec2a122b35104b34b7754497d12dc2cd7/chunklist_720.stream.m3u8
-
 //========================================================================
 //Collected by @flyin >>> MOVIES
 //========================================================================
