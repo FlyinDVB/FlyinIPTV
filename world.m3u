@@ -52,7 +52,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 ##KODIPROP:inputstream.adaptive.manifest_type=dash 
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key=9caf76de62c36d6c8889b24635893951:981eaa8b8d1b4e03ca3b531533907e15
-3https://why.biz.id/Iptv/rooid.php/stream.mpd?id=17623
+#https://why.biz.id/Iptv/rooid.php/stream.mpd?id=17623
 
 ##EXTINF:-1  tvg-logo="https://iili.io/2DHxlQR.png" group-title="FLY LOKAL",BRI LIGA 2
 ##EXTVLCOPT:http-referrer=https://m.vidio.com/
