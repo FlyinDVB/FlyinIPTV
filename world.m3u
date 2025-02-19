@@ -320,7 +320,12 @@ https://sweet-night-1d1d.worst.workers.dev/?id=6299&type=dash
 //========================================================================
 
 #EXTINF:-1 group-logo="https://iili.io/2ZBvTZB.png", group-title="FLY KOVO",SBS Sports
-#EXTINF:-1 tvg-id="sbssport.id" tvg-logo="https://image.sbs.co.kr/medianet/favicon/sports_logo.png" group-title="FLY KOVO",SBS Sports
+#EXTINF:-1 tvg-id="sbssport.id" tvg-logo="https://image.sbs.co.kr/medianet/favicon/sports_logo.png" group-title="FLY KOVO",SBS Sports FHD
+#EXTVLCOPT:http-referrer=https://m.sports.naver.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/n3ebruw6jdm7exboqkwp5m1fqkifzkkzyzc2/hdntl=exp=1739991094~acl=*%2fn3ebruw6jdm7exboqkwp5m1fqkifzkkzyzc2%2f*~data=hdntl~hmac=c96b1f5d6612eec9e04d8f5ca2482b9a6ee0059132a78aff0778d370109bcb03/chunklist_1080.stream.m3u8
+
+#EXTINF:-1 tvg-id="sbssport.id" tvg-logo="https://image.sbs.co.kr/medianet/favicon/sports_logo.png" group-title="FLY KOVO",SBS Sports HD
 #EXTVLCOPT:http-referrer=https://m.sports.naver.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/n3ebruw6jdm7exboqkwp5m1fqkifzkkzyzc2/hdntl=exp=1739991264~acl=*%2fn3ebruw6jdm7exboqkwp5m1fqkifzkkzyzc2%2f*~data=hdntl~hmac=ecec00f70f5fd96c067fbc279409a62ff0ce52d3d6d617f55d0c28b28a568fb9/chunklist_720.stream.m3u8
