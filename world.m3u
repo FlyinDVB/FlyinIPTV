@@ -283,17 +283,15 @@ https://sweet-night-1d1d.worst.workers.dev/?id=6299&type=dash
 //Collected by @flyin >>> KOVO
 //========================================================================
 
-#EXTINF:-1 group-logo="https://iili.io/2ZBvTZB.png", group-title="FLY KOVO",SBS Sports
-#EXTINF:-1 tvg-id="sbssport.id" tvg-logo="https://image.sbs.co.kr/medianet/favicon/sports_logo.png" group-title="FLY KOVO",SBS Sports FHD
-#EXTVLCOPT:http-referrer=https://m.sports.naver.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTINF:-1 group-logo="https://iili.io/32dmyxe.png", group-title="VOLI KOREA",SBS SPORTS
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/FlyinDVB/logo/refs/heads/main/sbs.png" group-title="VOLI KOREA",SBS SPORTS FHD
+https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0001/fi7pjuwgipfkcnr4olpnfyrqwklfvf0gouvx/playlist.m3u8?hdnts=st=1741167829~exp=1741200239~acl=*/fi7pjuwgipfkcnr4olpnfyrqwklfvf0gouvx/*~hmac=c2728f9df045a03abfd2498808dde747d3c55a1d36a6af2f155a49549ae56434
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/FlyinDVB/logo/refs/heads/main/kbsn.png" group-title="VOLI KOREA",KBSN SPORTS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0
 https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/fn8lgsfzmlr8ebtuxvumwocnm5gk807p54eo/hdntl=exp=1740595832~acl=*%2ffn8lgsfzmlr8ebtuxvumwocnm5gk807p54eo%2f*~data=hdntl~hmac=53e63ff87956a71577bd28e6ca111a8709878768830ff95beebed18a2e211f48/chunklist_720.stream.m3u8
 
-#EXTINF:-1 tvg-id="sbssport.id" tvg-logo="https://image.sbs.co.kr/medianet/favicon/sports_logo.png" group-title="FLY KOVO",SBS Sports HD
-#EXTVLCOPT:http-referrer=https://m.sports.naver.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/fn8lgsfzmlr8ebtuxvumwocnm5gk807p54eo/hdntl=exp=1740595832~acl=*%2ffn8lgsfzmlr8ebtuxvumwocnm5gk807p54eo%2f*~data=hdntl~hmac=53e63ff87956a71577bd28e6ca111a8709878768830ff95beebed18a2e211f48/chunklist_720.stream.m3u8
-
+=
 //========================================================================
 //Collected by @flyin >>> MOVIES
 //========================================================================
