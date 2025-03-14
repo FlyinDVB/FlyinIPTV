@@ -285,12 +285,17 @@ https://sweet-night-1d1d.worst.workers.dev/?id=6299&type=dash
 
 #EXTINF:-1 group-logo="https://iili.io/32dmyxe.png", group-title="VOLI KOREA",SBS SPORTS
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/FlyinDVB/logo/refs/heads/main/sbs.png" group-title="VOLI KOREA",SBS SPORTS FHD
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0001/fi7pjuwgipfkcnr4olpnfyrqwklfvf0gouvx/playlist.m3u8?hdnts=st=1741167829~exp=1741200239~acl=*/fi7pjuwgipfkcnr4olpnfyrqwklfvf0gouvx/*~hmac=c2728f9df045a03abfd2498808dde747d3c55a1d36a6af2f155a49549ae56434
+#EXTVLCOPT:http-referrer=https://kakotv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+https://live-edge-th136.myjktv.com/watch/live.m3u8?video=sbs_sports_540&sid=KSboGFfVqLl4atwB5ArV7wzL82vYQnobv6AgLEuf&secret=965361ba8b722db98e07b48719bd5604&time=1741642077
+#https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/g3g2i4oy3oxlgpf1fmfi2jpbykrea0n3vn9o/playlist.m3u8?hdnts=st=1741774040~exp=1741806450~acl=*/g3g2i4oy3oxlgpf1fmfi2jpbykrea0n3vn9o/*~hmac=3597373926ab517e498d7d5b15888e772412d18c9a7aef7bbc97d731b989cdb2
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/FlyinDVB/logo/refs/heads/main/kbsn.png" group-title="VOLI KOREA",KBSN SPORTS FHD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/fn8lgsfzmlr8ebtuxvumwocnm5gk807p54eo/hdntl=exp=1740595832~acl=*%2ffn8lgsfzmlr8ebtuxvumwocnm5gk807p54eo%2f*~data=hdntl~hmac=53e63ff87956a71577bd28e6ca111a8709878768830ff95beebed18a2e211f48/chunklist_720.stream.m3u8
+#EXTVLCOPT:http-referrer=https://kakotv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#https://live-edge-th136.myjktv.com/watch/live.m3u8?video=kbs_n_sports_540&sid=kxRlfxO8ArVsFyINmzY0riyDfXXEPBPlFcYnWyOl&secret=702bda21320b4cec163bcbf3b2553ee3&time=1741642162
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/v5iwruog5qd6ozrotcnqdngwjeamco4qjm9r/hdntl=exp=1741978144~acl=*%2fv5iwruog5qd6ozrotcnqdngwjeamco4qjm9r%2f*~data=hdntl~hmac=5194d9357f2bb81df6c96b5f34385cdf5fb9ae1353449e64a4f2890bd635a3a3/chunklist_1080.stream.m3u8
 
-=
 //========================================================================
 //Collected by @flyin >>> MOVIES
 //========================================================================
