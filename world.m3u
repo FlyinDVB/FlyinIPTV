@@ -8012,4 +8012,18 @@ https://hls2.dewanonton.online/vultr/yPALSHkaNQXht/hls-stream.m3u8
 #https://stream.hownetwork.xyz/xxx/fast-furious-2001-bluray/6/480.m3u8
 https://cdn7iv.diebutx.com/ownhls/2020/28cdfc9db9535519cd8fe994f9c70bbb/720p/index.m3u8
 
+
+===================================================== TIMNAS  ==========================================================
+
+#EXTINF:-1 group-logo="https://thumbor.prod.vidiocdn.com/PIvMNEo-Gk_TbcGVBbvB3wWd5MM=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/452/timnas-indonesia-435ace.png", group-title="TIMNAS",Sportstart 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/954/49954-SNAPSHOT-l.png" group-title="TIMNAS",Sportstars 2
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/154/107154-SNAPSHOT-l.png" group-title="TIMNAS",V-LIVE
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://d37nf5n4fr3338.cloudfront.net/index.m3u8
+
 #EXTM3U billed-msg="😎 BY FLYIN DVB 😎"
