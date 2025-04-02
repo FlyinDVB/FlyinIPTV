@@ -276,8 +276,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports
 
 #EXTINF:-1 group-logo="https://iili.io/32dmyxe.png", group-title="VOLI KOREA",SBS SPORTS
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/FlyinDVB/logo/refs/heads/main/sbs.png" group-title="VOLI KOREA",SBS SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m.sports.naver.com/
 https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/xby8orqh9fuuqp75c3m4rgap46620izekpc1/1080.stream/hdntl=exp=1743619378~acl=*%2fxby8orqh9fuuqp75c3m4rgap46620izekpc1%2f*~data=hdntl~hmac=ca07bbb3fe4b5935394ab0ecbc8ca430a55e8f6933d2ab18acced55248c3ba9d/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/FlyinDVB/logo/refs/heads/main/kbsn.png" group-title="VOLI KOREA",KBSN SPORTS FHD
