@@ -274,16 +274,28 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports
 //Collected by @flyin >>> KOVO
 //========================================================================
 
-#EXTINF:-1 group-logo="https://iili.io/32dmyxe.png", group-title="VOLI KOREA",SBS SPORTS
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/FlyinDVB/logo/refs/heads/main/sbs.png" group-title="VOLI KOREA",SBS SPORTS FHD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/xby8orqh9fuuqp75c3m4rgap46620izekpc1/playlist.m3u8?hdnts=st=1743590452~exp=1743622862~acl=*/xby8orqh9fuuqp75c3m4rgap46620izekpc1/*~hmac=c4114ac16deb571747f1033a53f52c84a6d7657f8757ae8b4a8776b0386679a9
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/FlyinDVB/logo/refs/heads/main/kbsn.png" group-title="VOLI KOREA",KBSN SPORTS FHD
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/FlyinDVB/logo/refs/heads/main/kovo1.png", group-title="VOLI KOREA",SBS SPORTS SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/FlyinDVB/logo/refs/heads/main/sbs.png" group-title="VOLI KOREA",SBS SPORTS SD
 #EXTVLCOPT:http-referrer=https://kakotv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#https://live-edge-th136.myjktv.com/watch/live.m3u8?video=kbs_n_sports_540&sid=kxRlfxO8ArVsFyINmzY0riyDfXXEPBPlFcYnWyOl&secret=702bda21320b4cec163bcbf3b2553ee3&time=1741642162
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/7iv4n9ctcutdnuaf6xceixmsald2k8zfq0rc/1080.stream/hdntl=exp=1743102780~acl=*%2f7iv4n9ctcutdnuaf6xceixmsald2k8zfq0rc%2f*~data=hdntl~hmac=9173f80141c69cca7d56e3d35a515ec968b441a521d3f1f83c19a46713ed8f5a/chunklist.m3u8
+https://live-edge-th136.myjktv.com/watch/live.m3u8?video=sbs_sports_540&sid=KSboGFfVqLl4atwB5ArV7wzL82vYQnobv6AgLEuf&secret=965361ba8b722db98e07b48719bd5604&time=1741642077
+#https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/ykdnq0a1ift1nui1may7qazumkxcmjpkya8i/1080.stream/hdntl=exp=1742410397~acl=*%2fykdnq0a1ift1nui1may7qazumkxcmjpkya8i%2f*~data=hdntl~hmac=fbe6e81d5ea939fbf9a2663f80876efa0a0d41de16e5502d6d2c7804a17a60f8/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/FlyinDVB/logo/refs/heads/main/kbsn.png" group-title="VOLI KOREA",KBSN SPORTS SD
+#EXTVLCOPT:http-referrer=https://kakotv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live-edge-th136.myjktv.com/watch/live.m3u8?video=kbs_n_sports_540&sid=kxRlfxO8ArVsFyINmzY0riyDfXXEPBPlFcYnWyOl&secret=702bda21320b4cec163bcbf3b2553ee3&time=1741642162
+#https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/7iv4n9ctcutdnuaf6xceixmsald2k8zfq0rc/1080.stream/hdntl=exp=1743102780~acl=*%2f7iv4n9ctcutdnuaf6xceixmsald2k8zfq0rc%2f*~data=hdntl~hmac=9173f80141c69cca7d56e3d35a515ec968b441a521d3f1f83c19a46713ed8f5a/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/FlyinDVB/logo/refs/heads/main/sbs.png" group-title="VOLI KOREA",SBS SPORTS LIVE EVEN
+#EXTVLCOPT:http-referrer=https://m.sports.naver.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/xby8orqh9fuuqp75c3m4rgap46620izekpc1/1080.stream/hdntl=exp=1743619378~acl=*%2fxby8orqh9fuuqp75c3m4rgap46620izekpc1%2f*~data=hdntl~hmac=ca07bbb3fe4b5935394ab0ecbc8ca430a55e8f6933d2ab18acced55248c3ba9d/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/FlyinDVB/logo/refs/heads/main/kbsn.png" group-title="VOLI KOREA",KBSN SPORTS LIVE EVEN
+#EXTVLCOPT:http-referrer=https://m.sports.naver.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://d2zve2l62bwzcf.cloudfront.net/h264/kbsnsports/cmaf-hls/master.m3u8
 //========================================================================
 //Collected by @flyin >>> MOVIES
 //========================================================================
