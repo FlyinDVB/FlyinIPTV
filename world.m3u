@@ -276,7 +276,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports
 
 #EXTINF:-1 group-logo="https://iili.io/32dmyxe.png", group-title="VOLI KOREA",SBS SPORTS
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/FlyinDVB/logo/refs/heads/main/sbs.png" group-title="VOLI KOREA",SBS SPORTS FHD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/xby8orqh9fuuqp75c3m4rgap46620izekpc1/720.stream/hdntl=exp=1743621405~acl=*%2fxby8orqh9fuuqp75c3m4rgap46620izekpc1%2f*~data=hdntl~hmac=c62c4f232f4ec6f5586bad029ed831668316de908de0816dcab85cc36aeee24d/chunklist.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/xby8orqh9fuuqp75c3m4rgap46620izekpc1/playlist.m3u8?hdnts=st=1743590452~exp=1743622862~acl=*/xby8orqh9fuuqp75c3m4rgap46620izekpc1/*~hmac=c4114ac16deb571747f1033a53f52c84a6d7657f8757ae8b4a8776b0386679a9
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/FlyinDVB/logo/refs/heads/main/kbsn.png" group-title="VOLI KOREA",KBSN SPORTS FHD
 #EXTVLCOPT:http-referrer=https://kakotv.com/
