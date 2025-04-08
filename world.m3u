@@ -276,26 +276,24 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/FlyinDVB/logo/refs/heads/main/kovo1.png", group-title="VOLI KOREA",SBS SPORTS HD
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/FlyinDVB/logo/refs/heads/main/sbs.png" group-title="VOLI KOREA",SBS SPORTS HD
-##EXTVLCOPT:http-referrer=https://kakotv.com/
+#EXTVLCOPT:http-referrer=https://m.sports.naver.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#https://live-edge-th136.myjktv.com/watch/live.m3u8?video=sbs_sports_540&sid=KSboGFfVqLl4atwB5ArV7wzL82vYQnobv6AgLEuf&secret=965361ba8b722db98e07b48719bd5604&time=1741642077
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/xcxvb8tcewzk7mpcanlgq9pb2laynib1j7md/720.stream/hdntl=exp=1743792344~acl=*%2fxcxvb8tcewzk7mpcanlgq9pb2laynib1j7md%2f*~data=hdntl~hmac=ae7c2c3520bdc74743a3e0395779cd6a2c6c54fc695e0f12dff81feb73f31116/chunklist.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/fhsevbmnunr26yg17wj9j4kytled1knc20c3/720.stream/hdntl=exp=1744137586~acl=*%2ffhsevbmnunr26yg17wj9j4kytled1knc20c3%2f*~data=hdntl~hmac=2bdd285c8733632a61428f8973b626204c7db112479a56660a465cb2c45e43ba/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/FlyinDVB/logo/refs/heads/main/kbsn.png" group-title="VOLI KOREA",KBSN SPORTS HD
-#EXTVLCOPT:http-referrer=https://kakotv.com/
+#EXTVLCOPT:http-referrer=https://m.sports.naver.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live-edge-th136.myjktv.com/watch/live.m3u8?video=kbs_n_sports_540&sid=kxRlfxO8ArVsFyINmzY0riyDfXXEPBPlFcYnWyOl&secret=702bda21320b4cec163bcbf3b2553ee3&time=1741642162
-#https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/7iv4n9ctcutdnuaf6xceixmsald2k8zfq0rc/1080.stream/hdntl=exp=1743102780~acl=*%2f7iv4n9ctcutdnuaf6xceixmsald2k8zfq0rc%2f*~data=hdntl~hmac=9173f80141c69cca7d56e3d35a515ec968b441a521d3f1f83c19a46713ed8f5a/chunklist.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/fhsevbmnunr26yg17wj9j4kytled1knc20c3/720.stream/hdntl=exp=1744137586~acl=*%2ffhsevbmnunr26yg17wj9j4kytled1knc20c3%2f*~data=hdntl~hmac=2bdd285c8733632a61428f8973b626204c7db112479a56660a465cb2c45e43ba/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/FlyinDVB/logo/refs/heads/main/sbs.png" group-title="VOLI KOREA",SBS SPORTS LIVE EVEN
 #EXTVLCOPT:http-referrer=https://m.sports.naver.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/prwvs6cxc0vdk4gyc55nyr6falchh6rscxlj/720.stream/hdntl=exp=1743948571~acl=*%2fprwvs6cxc0vdk4gyc55nyr6falchh6rscxlj%2f*~data=hdntl~hmac=e9c388fc40807068bfd73f3bd1c4c555f99c15d4db0c1894731af672cdf2e334/chunklist.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/fhsevbmnunr26yg17wj9j4kytled1knc20c3/720.stream/hdntl=exp=1744137586~acl=*%2ffhsevbmnunr26yg17wj9j4kytled1knc20c3%2f*~data=hdntl~hmac=2bdd285c8733632a61428f8973b626204c7db112479a56660a465cb2c45e43ba/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/FlyinDVB/logo/refs/heads/main/kbsn.png" group-title="VOLI KOREA",KBSN SPORTS LIVE EVEN
 #EXTVLCOPT:http-referrer=https://m.sports.naver.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://d2zve2l62bwzcf.cloudfront.net/h264/kbsnsports/cmaf-hls/master.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/fhsevbmnunr26yg17wj9j4kytled1knc20c3/720.stream/hdntl=exp=1744137586~acl=*%2ffhsevbmnunr26yg17wj9j4kytled1knc20c3%2f*~data=hdntl~hmac=2bdd285c8733632a61428f8973b626204c7db112479a56660a465cb2c45e43ba/chunklist.m3u8
 
 //========================================================================
 //Collected by @flyin >>> MOVIES
